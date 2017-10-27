@@ -254,21 +254,27 @@
      transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-38.919937,109.31853)"
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-     id="text4555"><textPath
+     id="text4555"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4543"
        id="textPath4593">Haley</textPath></text>
 <text
      transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-9.1624551,151.32439)"
      id="text4575"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-     xml:space="preserve"><textPath
+     xml:space="preserve"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4547"
        id="textPath4605">Sara</textPath></text>
 <text
      transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-22.295052,113.96753)"
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-     id="text4579"><textPath
+     id="text4579"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4540-7"
        id="textPath4602">Schwantner</textPath></text>
 <text
@@ -277,28 +283,36 @@
      xml:space="preserve"
      transform="matrix(0.25735614,0.92727985,-0.92727985,0.25735614,-30.928932,128.15479)"
      inkscape:transform-center-x="0.01845497"
-     inkscape:transform-center-y="12.112742"><textPath
+     inkscape:transform-center-y="12.112742"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4545"
        id="textPath4599">Gloria</textPath></text>
 <text
      id="text4587"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
      xml:space="preserve"
-     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-22.295052,113.96753)"><textPath
+     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-22.295052,113.96753)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4540-7-8"
        id="textPath4608">Miller</textPath></text>
 <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
      id="text4591"
-     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-22.295052,113.96753)"><textPath
+     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-22.295052,113.96753)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4540"
        id="textPath4596">Fabel</textPath></text>
 <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      id="text4770"
-     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-42.93816,87.983351)"><textPath
+     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-42.93816,87.983351)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4747"
        id="textPath5089"><tspan
    id="tspan4768">Katie</tspan></textPath></text>
@@ -306,7 +320,9 @@
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      id="text4774"
-     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-65.105319,110.55743)"><textPath
+     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-65.105319,110.55743)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4653"
        id="textPath5080"><tspan
    id="tspan4772">Dolan</tspan></textPath></text>
@@ -316,7 +332,9 @@
      xml:space="preserve"
      x="2.8284271"
      y="731.14844"
-     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-45.759517,105.37421)"><textPath
+     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-45.759517,105.37421)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4745"
        id="textPath5083"><tspan
    id="tspan4776">Kelli</tspan></textPath></text>
@@ -326,7 +344,9 @@
      id="text4782"
      x="1.4142135"
      y="732.56262"
-     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-53.127596,127.4834)"><textPath
+     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-53.127596,127.4834)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4743"
        id="textPath5077"><tspan
    id="tspan4780">Kate</tspan></textPath></text>
@@ -336,7 +356,9 @@
      xml:space="preserve"
      x="-359.21024"
      y="519.01636"
-     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-67.894421,105.68838)"><textPath
+     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-67.894421,105.68838)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4631"
        id="textPath5092"><tspan
    id="tspan4784">Iverson</tspan></textPath></text>
@@ -346,7 +368,9 @@
      id="text4790"
      x="1.4142135"
      y="732.56262"
-     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-63.225561,107.1983)"><textPath
+     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-63.225561,107.1983)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4655"
        id="textPath5086"><tspan
    id="tspan4788">Thompson</tspan></textPath></text>
@@ -354,7 +378,9 @@
      id="text4786-3"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
      xml:space="preserve"
-     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-49.254632,136.26341)"><textPath
+     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-49.254632,136.26341)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4633"
        id="textPath5167">Fowler<tspan
    id="tspan4784-4" /></textPath></text>
@@ -362,7 +388,9 @@
      id="text5124"
      style="font-style:normal;font-weight:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      xml:space="preserve"
-     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-84.983384,124.04029)"><textPath
+     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-84.983384,124.04029)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4753"
        id="textPath5165">Olivia </textPath></text>
 <text
@@ -371,7 +399,9 @@
      id="text5129"
      x="67.882248"
      y="67.882248"
-     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-48.828756,131.80016)"><textPath
+     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-48.828756,131.80016)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4661"
        id="textPath5162">Brushett<tspan
    id="tspan5127" /></textPath></text>
@@ -381,7 +411,9 @@
      id="text5133"
      x="11.313708"
      y="735.39105"
-     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-59.266838,115.90129)"><textPath
+     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-59.266838,115.90129)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4751"
        id="textPath5160">Sabrina</textPath></text>
 <text
@@ -390,7 +422,9 @@
      id="text5145"
      x="89.095451"
      y="497.80316"
-     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-51.372376,119.00877)"><textPath
+     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-51.372376,119.00877)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4749"
        id="textPath5155">Valya</textPath></text>
 <text
@@ -399,7 +433,9 @@
      xml:space="preserve"
      x="8"
      y="740"
-     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-54.375534,134.34563)"><textPath
+     transform="matrix(0.26152017,0.92611409,-0.92611409,0.26152017,-54.375534,134.34563)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4659"
        id="textPath5157">Moran<tspan
    id="tspan5147" /></textPath></text>
@@ -409,7 +445,9 @@
      id="text5153"
      x="-4"
      y="724"
-     transform="rotate(-155.06844,464.56548,19.336241)"><textPath
+     transform="rotate(-155.06844,464.56548,19.336241)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><textPath
        xlink:href="#path4526"
        id="textPath5170"><tspan
          id="tspan5179"
