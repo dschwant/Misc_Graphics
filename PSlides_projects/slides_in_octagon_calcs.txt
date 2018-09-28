@@ -1,0 +1,39 @@
+https://www.calculatorsoup.com/calculators/geometry-plane/polygon.php?n=8&given_data=s&s=2&units_length=in&sf=6&n_last=8&given_data_last=s&action=solve
+
+n = 8
+a = 2 in
+r = 2.41421 in
+R = 2.61313 in
+A = 19.3137 in2
+P = 16 in
+x = 135 °
+y = 45 °
+
+An 8 sided polygon
+Octagon Diagram, 8 sided polygon with R = circumradius, r = inradius and a = side length
+r = inradius (apothem)
+R = circumradius 
+a = side length
+n = number of sides
+x = interior angle
+y = exterior angle 
+A = area
+P = perimeter
+p = pi = 3.14159...
+v = square root
+
+Side Length a
+a = 2r tan(p/n) = 2R sin(p/n)
+Inradius r
+r = (1/2)a cot(p/n) = R cos(p/n)
+Circumradius R
+R = (1/2) a csc(p/n) = r sec(p/n)
+Area A
+A = (1/4)na2 cot(p/n) = nr2 tan(p/n)
+Perimeter P
+P = na
+Interior Angle x
+x = ((n-2)p / n) radians = (((n-2)/n) x 180° ) degrees
+Exterior Angle y
+y = (2p / n) radians = (360° / n) degrees
+
