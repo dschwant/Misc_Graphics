@@ -16,7 +16,10 @@
    version="1.1"
    id="svg29"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="ER2018_Trace_01.svg">
+   sodipodi:docname="ER2018_Trace_01.svg"
+   inkscape:export-filename="C:\Users\dschwant\Documents\GitHub\Misc_Graphics\ElastaRachel2018\ER2018_T01.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748738"
-     inkscape:cx="541.42368"
-     inkscape:cy="1219.55"
+     inkscape:cx="533.34246"
+     inkscape:cy="1057.9256"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -90,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
