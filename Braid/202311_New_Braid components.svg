@@ -39,9 +39,9 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="2.4445464"
-     inkscape:cx="1206.3588"
-     inkscape:cy="106.15466"
+     inkscape:zoom="2"
+     inkscape:cx="1134.5"
+     inkscape:cy="180.25"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:current-layer="svg2335"
@@ -343,4 +343,21 @@
      d="m 1063.6547,89.640001 c 34.6396,-22.860468 88.4731,-22.779585 123.1659,-0.285 -20.1149,24.525899 -46.7907,79.427239 -56.819,93.143089 -10.046,-13.755 -45.6418,-68.55157 -66.3469,-92.858089 z"
      id="path59"
      sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.28125;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1011.0021,139.68647 c 19.743,-27.63929 37.4784,-41.180081 52.5584,-50.027906 13.2954,13.633666 36.3216,50.427096 67.6824,94.598436 39.751,55.98899 101.3285,88.94684 174.9856,49.0937 11.6091,13.89283 28.5468,33.18826 54.0487,52.02922 -70.4317,50.27444 -169.0655,51.49932 -239.8264,-8.93149 -48.3868,-41.32297 -92.4552,-115.52187 -109.4487,-136.76196 z"
+     id="path60"
+     sodipodi:nodetypes="ccsccsc" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path60"
+     id="use60"
+     transform="matrix(1,0,0,-1,-120.9375,322.10052)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path59"
+     id="use61"
+     transform="matrix(1,0,0,-1,-118.59375,322.58066)" />
 </svg>
